@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=joaovpnt&show_icons=true&include_all_commits=true&transparent"/>
 
-<!--
-**joaovpnt/joaovpnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 A brief presentation
 
-Here are some ideas to get you started:
+- 🎓 Studying Computer Science at Tiradentes University currently in the 7/9 period.
+- 💼 Working as a Network Monitoring Intern at Grupo Tiradentes.
+- 🌱 &nbsp; Learning more about Data Science and Mobile Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpnt&layout=compact&langs_count=8&transparent"/>
+
+## Where I am!
+
+[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaovpnt/) [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joaovpnt)
