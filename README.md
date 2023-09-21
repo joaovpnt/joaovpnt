@@ -8,6 +8,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpnt&layout=compact&langs_count=8&transparent"/>
 
-## Where I am!
+# 🔎Where you can find me
 
-[![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaovpnt/) [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaovcpnt/)
+## https://joaovpnt.github.io/find-me/
