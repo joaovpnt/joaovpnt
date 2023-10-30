@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=joaovpnt&show_icons=true&include_all_commits=true&transparent"/>
-
 # 👋 A brief presentation
 
 - 🎓 Studying Computer Science at Tiradentes University currently in the 7/9 period.
