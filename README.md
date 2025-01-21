@@ -4,8 +4,6 @@
 - 💼 Working as a Network Monitoring Intern at Grupo Tiradentes.
 - 🌱 &nbsp; Learning more about Data Science and Mobile Development.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpnt&layout=compact&langs_count=8&transparent"/>
-
 # 🔎Where you can find me
 
 ## https://joaovpnt.github.io/find-me/
